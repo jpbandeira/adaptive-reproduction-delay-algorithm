@@ -1,4 +1,4 @@
-1;type;receiver_timestamp;sender_timestamp
+id;type;receiver_timestamp;sender_timestamp
 2;D;135897165;135895789
 3;D;135896589;135895949
 4;D;135896781;135896109
